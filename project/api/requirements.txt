@@ -2,5 +2,5 @@ flask==2.3.3
 flask-cors==4.0.0
 werkzeug==2.3.7
 google-cloud-aiplatform==1.38.1
-transformers==4.38.2
+transformers==4.48.0
 torch==2.2.1
